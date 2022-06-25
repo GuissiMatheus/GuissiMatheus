@@ -3,7 +3,7 @@
 
 # Bem-vindo 👋
 
-Olá, sou o Matheus Guissi, seja bem-vindo ao meu GitHub.  
+Olá, meu nome é Matheus Guissi, seja bem-vindo ao meu GitHub.  
 Sou desenvolvedor Full Stack, estou sempre em busca de:
  - aprender novas linguagens e tecnologias;
  - aprimorar meus conhecimentos nas linguagens;
