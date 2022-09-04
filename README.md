@@ -41,6 +41,13 @@ Sou desenvolvedor Full Stack, estou sempre em busca de:
   </a>
 </p>
 
+### _Script_
+<p>
+  <a href="#">
+    <img align="center" alt="Logo Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"" />
+  </a>
+</p>
+
 <p align="center">
   <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guissimatheus&layout=compact&langs_count=6&hide=shell,blade&theme=dark&custom_title=Linguagens%20mais%20utilizadas" />
